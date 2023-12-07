@@ -14,7 +14,7 @@ About Ryan
 How to reach me
 ----------------
 -   ryan.ramsey.dev@gmail.com
--   linkedin.com/ryanramseydev
+-   [linkedin.com/ryanramseydev](linkedin.com/ryanramseydev)
 -   GoogleVoice Phone # 615-854-8840
 
 Statistics
