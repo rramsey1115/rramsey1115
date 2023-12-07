@@ -1,4 +1,7 @@
-Ryan Ramsey
+![Linkedin Banner Ver1 (1)](https://github.com/rramsey1115/rramsey1115/assets/139381892/99f98a1a-82ce-4239-9db2-7bd96e8117f9)
+
+
+About Ryan
 ======
 📖 I am currently a student at Nashville Software School studying full stack software development with C#/.NET as my server side focus.
 
