@@ -3,13 +3,21 @@
 
 About Ryan
 ======
-📖 I am currently a student at Nashville Software School studying full stack software development with C#/.NET as my server side focus.
 
-🧑🏻‍💻 Please check out my projects and let me know what you think or if you would be interested in working together!
+Dedicated and adaptable software developer with a passion for creativity, honed through my journey at Nashville Software School. 
 
-👀 I’m interested in creating applications which are user friendly, impactful, and which allow me to be creative.
+I am able to work in full-stack including C#/.NET, React, JavaScript, CSS, SQL, and am proficient in version control practices and project management using GitHub. 
 
-🌱 I’m currently learning to create full-stack applications using React in combination with C#/.NET
+Leveraging a diverse background in music education and leadership, I bring a unique skill set to software development. 
+
+As a former high school band director and musician, I excelled in navigating challenges and turning them into valuable learning experiences. 
+
+Known for rapid skill acquisition and fostering a positive culture of success, I'm excited to contribute to a dynamic team. I am teachable, hardworking, and eager to bring my skills to a positive workplace culture.
+
+Please check out my project here or on YouTube where I demo some of my larger projects:
+
+https://youtube.com/playlist?list=PLobacsQs2nx_Lx_wRkDmD_N9eDG3f5DAv&si=BQ_rFeHhTKlB7lOW
+
 
 How to reach me
 ----------------
