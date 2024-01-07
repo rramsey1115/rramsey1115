@@ -14,7 +14,7 @@ As a former high school band director and musician, I excelled in navigating cha
 
 Known for rapid skill acquisition and fostering a positive culture of success, I'm excited to contribute to a dynamic team. I am teachable, hardworking, and eager to bring my skills to a positive workplace culture.
 
-Please check out my project here or on YouTube where I demo some of my larger projects:
+Please check out my projects here or on YouTube where I demo some of my larger projects:
 
 https://youtube.com/playlist?list=PLobacsQs2nx_Lx_wRkDmD_N9eDG3f5DAv&si=BQ_rFeHhTKlB7lOW
 
