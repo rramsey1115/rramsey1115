@@ -4,13 +4,11 @@
 About Ryan
 ======
 
-Dedicated and adaptable software developer with a passion for creativity, honed through my journey at Nashville Software School. 
+Dedicated and adaptable software developer with a passion for creativity.  
 
-I am able to work in full-stack including C#/.NET, React, JavaScript, CSS, SQL, and am proficient in version control practices and project management using GitHub. 
+I am able to work across the full-stack including C#/.NET, Express/Node.js, React, JavaScript, CSS, SQL, and am proficient in version control practices and project management using GitHub.
 
 Leveraging a diverse background in music education and leadership, I bring a unique skill set to software development. 
-
-As a former high school band director and musician, I excelled in navigating challenges and turning them into valuable learning experiences. 
 
 Known for rapid skill acquisition and fostering a positive culture of success, I'm excited to contribute to a dynamic team. I am teachable, hardworking, and eager to bring my skills to a positive workplace culture.
 
